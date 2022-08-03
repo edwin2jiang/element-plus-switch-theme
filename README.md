@@ -5,6 +5,10 @@
 src\composable\useElementCustomePrimaryColor\index.ts
 ```
 
+
+
+[在线体验](https://ep-switch-theme-7g72lo53fe4ca35a-1259020893.ap-shanghai.app.tcloudbase.com/)
+
 ## 1. 如何使用
 
 ### 1.1 导入composable
